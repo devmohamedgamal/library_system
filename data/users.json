@@ -1,0 +1,51 @@
+[
+    {
+        "name": "ahmed",
+        "username": "ahmed",
+        "password": "123",
+        "email": "ahmed@example.com",
+        "type": "user"
+    },
+    {
+        "username": "nemo",
+        "name": "",
+        "email": "",
+        "password": "",
+        "type": "user"
+    },
+    {
+        "username": "adg",
+        "name": "gsg",
+        "email": "gsgsgadg",
+        "password": "adg",
+        "type": "user"
+    },
+    {
+        "username": "afadfa",
+        "name": "afgdag",
+        "email": "adgdag",
+        "password": "afafd",
+        "type": "user"
+    },
+    {
+        "username": "afdagda",
+        "name": "agdgad",
+        "email": "adgadg",
+        "password": "asd",
+        "type": "admin"
+    },
+    {
+        "username": "fafdggg",
+        "name": "ahghfh",
+        "email": "ahgahh",
+        "password": "asd",
+        "type": "user"
+    },
+    {
+        "username": "adgadg",
+        "name": "gadg",
+        "email": "adgd",
+        "password": "adgdg",
+        "type": "user"
+    }
+]

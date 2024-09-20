@@ -1,0 +1,23 @@
+Library System:
+	- add books
+	- editing book
+	- delete book
+	- categories
+	- search
+	- users , login , signup
+	- settings ( categories , authers , publishers)
+	- reports (excel files)
+
+	book:
+		- id
+		- title 
+		- description
+		- category
+		- price 
+		- auther
+		- publisher 
+	users:
+		- username
+		- name
+		- password
+		- email address
